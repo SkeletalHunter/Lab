@@ -1,0 +1,8 @@
+/Users/andreyrodin/VS Code Projects/unit-testing-using-nunit/Program/bin/Debug/netstandard2.0/Program.deps.json
+/Users/andreyrodin/VS Code Projects/unit-testing-using-nunit/Program/bin/Debug/netstandard2.0/Program.dll
+/Users/andreyrodin/VS Code Projects/unit-testing-using-nunit/Program/bin/Debug/netstandard2.0/Program.pdb
+/Users/andreyrodin/VS Code Projects/unit-testing-using-nunit/Program/obj/Debug/netstandard2.0/Program.csprojAssemblyReference.cache
+/Users/andreyrodin/VS Code Projects/unit-testing-using-nunit/Program/obj/Debug/netstandard2.0/Program.AssemblyInfoInputs.cache
+/Users/andreyrodin/VS Code Projects/unit-testing-using-nunit/Program/obj/Debug/netstandard2.0/Program.AssemblyInfo.cs
+/Users/andreyrodin/VS Code Projects/unit-testing-using-nunit/Program/obj/Debug/netstandard2.0/Program.dll
+/Users/andreyrodin/VS Code Projects/unit-testing-using-nunit/Program/obj/Debug/netstandard2.0/Program.pdb

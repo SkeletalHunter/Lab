@@ -1,0 +1,11 @@
+/Users/andreyrodin/VS Code Projects/bin/Debug/netcoreapp3.1/andreyrodin
+/Users/andreyrodin/VS Code Projects/bin/Debug/netcoreapp3.1/andreyrodin.deps.json
+/Users/andreyrodin/VS Code Projects/bin/Debug/netcoreapp3.1/andreyrodin.runtimeconfig.json
+/Users/andreyrodin/VS Code Projects/bin/Debug/netcoreapp3.1/andreyrodin.runtimeconfig.dev.json
+/Users/andreyrodin/VS Code Projects/bin/Debug/netcoreapp3.1/andreyrodin.dll
+/Users/andreyrodin/VS Code Projects/bin/Debug/netcoreapp3.1/andreyrodin.pdb
+/Users/andreyrodin/VS Code Projects/obj/Debug/netcoreapp3.1/andreyrodin.csprojAssemblyReference.cache
+/Users/andreyrodin/VS Code Projects/obj/Debug/netcoreapp3.1/andreyrodin.AssemblyInfoInputs.cache
+/Users/andreyrodin/VS Code Projects/obj/Debug/netcoreapp3.1/andreyrodin.AssemblyInfo.cs
+/Users/andreyrodin/VS Code Projects/obj/Debug/netcoreapp3.1/andreyrodin.dll
+/Users/andreyrodin/VS Code Projects/obj/Debug/netcoreapp3.1/andreyrodin.pdb
