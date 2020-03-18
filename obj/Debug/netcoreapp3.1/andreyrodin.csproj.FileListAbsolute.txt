@@ -1,4 +1,3 @@
-/Users/andreyrodin/VS Code Projects/bin/Debug/netcoreapp3.1/andreyrodin
 /Users/andreyrodin/VS Code Projects/bin/Debug/netcoreapp3.1/andreyrodin.deps.json
 /Users/andreyrodin/VS Code Projects/bin/Debug/netcoreapp3.1/andreyrodin.runtimeconfig.json
 /Users/andreyrodin/VS Code Projects/bin/Debug/netcoreapp3.1/andreyrodin.runtimeconfig.dev.json
