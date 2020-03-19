@@ -17,11 +17,11 @@ namespace Lab
             return number;
         }
 
-        public int DoublePlusOrMinus(double count)
-        {
-            number = ErrorCheck(number + count * 2);
-            return number;
-        }
+        // public int DoublePlusOrMinus(double count)
+        // {
+        //     number = ErrorCheck(number + count * 2);
+        //     return number;
+        // }
 
         public int Multiply(double count)
         {
