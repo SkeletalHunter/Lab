@@ -25,7 +25,7 @@ namespace Lab
             upNumber.Write();
             Console.Write("/");
             downNumber.Write();
-            Console.WriteLine();
         }
+
     }
 }
