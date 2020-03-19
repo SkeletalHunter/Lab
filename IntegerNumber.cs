@@ -23,6 +23,12 @@ namespace Lab
             return number;
         }
 
+        public int Divide(double count)
+        {
+            number = ErrorCheck(number / count);
+            return number;
+        }
+
         public int Get()
         {
             return number;
