@@ -1,0 +1,3 @@
+[submodule "PairRepository"]
+	path = PairRepository
+	url = https://github.com/SkeletalHunter/PairRepository.git
