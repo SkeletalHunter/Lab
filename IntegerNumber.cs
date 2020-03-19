@@ -45,6 +45,11 @@ namespace Lab
             Console.Write(number);
         }
 
+        public void WriteLine()
+        {
+            Console.WriteLine(number);
+        }
+
         public int ErrorCheck(double count)
         {
             if (count % 1 != 0)
