@@ -23,6 +23,12 @@ namespace Lab
             return number;
         }
 
+        public int TriplePlusOrMinus(double count)
+        {
+            number = ErrorCheck(number + count * 3);
+            return number;
+        }
+
         public int Multiply(double count)
         {
             number = ErrorCheck(number * count);
