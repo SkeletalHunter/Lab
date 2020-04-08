@@ -25,7 +25,7 @@ namespace Lab
 
         public int TriplePlusOrMinus(double count)
         {
-            number = ErrorCheck(number + count * 2);
+            number = ErrorCheck(number + count * 3);
             return number;
         }
 
